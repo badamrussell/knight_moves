@@ -1,14 +1,12 @@
-knight_moves
+Knight Moves
 ============
 
-determine the least number of moves required to move a knight to another position on a chess board
+Determine the least number of moves required to move a knight to another position on a chess board.
 
-uses a custome binary search tree class to determing correct value.
-
-
-##Implemented Features
-======================
+Uses a custom <a href="https://github.com/badamrussell/tree">binary search tree class</a> I wrote to determine the correct sequence of moves.
 
 
-##Planned Features
-==================
+###Implemented Features
+
+
+###Planned Features
