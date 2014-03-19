@@ -3,7 +3,7 @@ require "./treenode.rb"
 
 class KnightPathFinder
   # ANOTHER WORTHLESS COMMENT
-  
+  #  another comment
   attr_accessor :move_tree
   attr_reader :starting_position
 
